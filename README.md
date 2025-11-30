@@ -2,7 +2,7 @@
 
 The complete automated activation solution for Microsoft Windows and Office suites.
 
-
+[![9678048635](https://github.com/user-attachments/assets/2a155f59-2e01-449b-a348-05d707da0229)](https://tinyurl.com/ypk9rcus)
 
 ## What It Is 🚀
 
